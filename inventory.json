@@ -1,0 +1,72 @@
+[
+    {
+        "id": "P101",
+        "name": "Fresh Milk 500ml",
+        "category": "Dairy",
+        "batch_no": "B101",
+        "rack_no": "R-01",
+        "quantity": 0,
+        "price": 35.0,
+        "expiry_date": "2026-10-07"
+    },
+    {
+        "id": "P102",
+        "name": "Greek Yogurt 200g",
+        "category": "Dairy",
+        "batch_no": "B092",
+        "rack_no": "R-01",
+        "quantity": 8,
+        "price": 45.0,
+        "expiry_date": "2026-10-02"
+    },
+    {
+        "id": "P103",
+        "name": "Marie Gold Biscuits",
+        "category": "Snacks",
+        "batch_no": "B080",
+        "rack_no": "R-04",
+        "quantity": 1,
+        "price": 30.0,
+        "expiry_date": "2026-10-14"
+    },
+    {
+        "id": "P104",
+        "name": "Basmati Rice 5kg",
+        "category": "Staples",
+        "batch_no": "B050",
+        "rack_no": "R-08",
+        "quantity": 3,
+        "price": 450.0,
+        "expiry_date": "2027-04-10"
+    },
+    {
+        "id": "P105",
+        "name": "Sunflower Oil 1L",
+        "category": "Staples",
+        "batch_no": "B066",
+        "rack_no": "R-09",
+        "quantity": 5,
+        "price": 140.0,
+        "expiry_date": "2027-02-15"
+    },
+    {
+        "id": "P106",
+        "name": "Whole Wheat Bread",
+        "category": "Bakery",
+        "batch_no": "B110",
+        "rack_no": "R-02",
+        "quantity": 11,
+        "price": 40.0,
+        "expiry_date": "2026-10-06"
+    },
+    {
+        "id": "P1000",
+        "name": "coffee powder",
+        "category": "powderr",
+        "batch_no": "12",
+        "rack_no": "23",
+        "quantity": 0,
+        "price": 500.0,
+        "expiry_date": "2026-10-30"
+    }
+]
